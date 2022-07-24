@@ -7,3 +7,4 @@
 
 
 #### [조인 6가지 종류 설명한 사이트](https://doh-an.tistory.com/30) 
+#### [Rest Api란](https://khj93.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-REST-API%EB%9E%80-REST-RESTful%EC%9D%B4%EB%9E%80)
